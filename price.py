@@ -2,7 +2,7 @@
 """
 Created on Mon May 14 16:02:49 2018
 
-@author: xx
+@author: XavierXIEXIN
 """
 import time
 import ccxt
